@@ -6,4 +6,6 @@
 
 [2022/01/23] https://reactjs.org/tutorial/tutorial.html#why-immutability-is-important
 
-[]  https://reactjs.org/tutorial/tutorial.html#declaring-a-winner
+[2022/01/24]  https://reactjs.org/tutorial/tutorial.html#declaring-a-winner
+
+[2022/] https://reactjs.org/tutorial/tutorial.html#adding-time-travelCancel changes
