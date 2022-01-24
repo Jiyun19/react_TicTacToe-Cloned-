@@ -8,4 +8,6 @@
 
 [2022/01/24]  https://reactjs.org/tutorial/tutorial.html#declaring-a-winner
 
-[2022/] https://reactjs.org/tutorial/tutorial.html#adding-time-travelCancel changes
+[2022/01/25] https://reactjs.org/tutorial/tutorial.html#storing-a-history-of-moves
+
+[]https://reactjs.org/tutorial/tutorial.html#showing-the-past-moves
