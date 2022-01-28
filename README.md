@@ -10,4 +10,3 @@
 
 [2022/01/25] https://reactjs.org/tutorial/tutorial.html#storing-a-history-of-moves
 
-[]https://reactjs.org/tutorial/tutorial.html#showing-the-past-moves
